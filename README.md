@@ -1,4 +1,4 @@
-# **Google Web Scraper**
+# **A Simple Web Scraper **
 
 This is a simple Python script that utilizes web scraping to search Google and return the most relevant answer for a user's query.
 Usage
