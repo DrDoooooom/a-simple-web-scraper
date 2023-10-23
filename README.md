@@ -1,7 +1,8 @@
 # **A Simple Web Scraper**
 
 This is a simple Python script that utilizes web scraping to search Google and return the most relevant answer for a user's query.
-Usage
+
+**Usage:**
 
 Run the script in a Python environment and provide a search query when prompted. The script will search Google, scrape the results, and return the most likely answer text.
 
